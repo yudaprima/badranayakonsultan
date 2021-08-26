@@ -1,11 +1,12 @@
 <template>
   <div class="mx-auto">
-    <div class="overflow-hidden px-4 flex flex-wrap mb-3 bg-gray-900 ">
+    <div class="overflow-hidden px-4 flex flex-wrap mb-3 bg-gray-900">
       <div class="lg:w-3/5 mx-auto py-12 space-y-5 px-2 lg:px-16">
         <h1
           class="font-extrabold text-white text-5xl lg:text-6xl leading-tight"
         >
-          Roofel is ready to make your website your success story online
+          Badranaya Perusahaan Pengadaan barang & Konsultan yang Mengerti
+          Kebutuhan Anda
         </h1>
       </div>
       <div class="lg:w-2/5 py-10 hidden md:block">
@@ -19,30 +20,33 @@
     </div>
 
     <div class="container px-16">
-      <div class="h-auto  overflow-hidden px-4 flex flex-wrap">
+      <div class="h-auto overflow-hidden px-4 flex flex-wrap">
         <div
-          class="container lg:w-2/3  mx-auto relateive py-20 space-y-5 px-0 lg:px-24"
+          class="
+            container
+            lg:w-2/3
+            mx-auto
+            relateive
+            py-20
+            space-y-5
+            px-0
+            lg:px-24
+          "
         >
-          <p class="font-extrabold text-2xl leading-tight">
-            Siapa Kami.
-          </p>
-          <p class="leading-9 ">
+          <p class="font-extrabold text-2xl leading-tight">Siapa Kami.</p>
+          <p class="leading-9">
             Dibangun oleh beberapa orang yang berkeinginan menjadikan Roofel
             sebagai wadah untuk memfasilitasi SDM berkualitas di bidang web dan
             web app agar selalu tetap berkarya dan bisa menampilkan karya dan
             ide untuk bisa di gunakan oleh calon klien.
           </p>
-          <p class="font-extrabold text-2xl leading-tight">
-            Visi Kami.
-          </p>
-          <p class="leading-9 ">
+          <p class="font-extrabold text-2xl leading-tight">Visi Kami.</p>
+          <p class="leading-9">
             Visi kami adalah bukan hanya sekedar membuat website dan aplikasi
             tetapi kami ingin menjadi teman yang baik dalam perjalanan
             perusahaan anda kedepan nya khususnya di dunia digital
           </p>
-          <p class="font-extrabold text-2xl leading-tight">
-            Misi Kami.
-          </p>
+          <p class="font-extrabold text-2xl leading-tight">Misi Kami.</p>
           <p class="leading-9">
             Menjadi mitra yang bisa memberikan masukan, ide dan gambaran yang
             sebenar benarnya tentang web aplikasi sehingga bisa sesuai dan
@@ -79,7 +83,7 @@
 export default {
   data() {
     return {
-      title: "Siapa Kami"
+      title: "Siapa Kami",
     };
   },
   head() {
@@ -89,11 +93,11 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: "Tentang roofel jasa pembuatan website siap pakai "
-        }
-      ]
+          content: "Tentang roofel jasa pembuatan website siap pakai ",
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 <style></style>
