@@ -90,7 +90,7 @@
                 class="inline-flex items-center p-2 mr-4"
               >
                 <nuxt-img
-                  src="/badranaya.webp"
+                  src="/logo-badranaya.svg"
                   height="100"
                   width="100"
                   alt="Jasa-rental-mobil-di-jambi-terbaik"
