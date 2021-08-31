@@ -89,6 +89,9 @@ export default {
     manifest: {
       lang: "id",
     },
+    icon: {
+      fileName: "favicon.png",
+    },
   },
 
   // Content module configuration (https://go.nuxtjs.dev/config-content)
