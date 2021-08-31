@@ -41,7 +41,7 @@ export default {
         rel: "canonical",
         href: `https://badranaya.net`,
       },
-      { rel: "icon", type: "image/x-icon", href: "/badranaya.svg" },
+      { rel: "icon", type: "image/x-icon", href: "/icon.png" },
     ],
   },
 
