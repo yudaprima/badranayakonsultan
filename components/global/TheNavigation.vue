@@ -91,10 +91,10 @@
               >
                 <nuxt-img
                   src="/icon.png"
-                  height="192"
-                  width="192"
+                  height="100"
+                  width="100"
                   alt="badranaya pengadaan barang dan jasa di Kebumen"
-                  class="rounded-lg"
+                  class="rounded-full"
                 />
               </nuxt-link>
             </li>
