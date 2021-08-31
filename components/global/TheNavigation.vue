@@ -94,7 +94,7 @@
                   height="100"
                   width="100"
                   alt="badranaya pengadaan barang dan jasa di Kebumen"
-                  class="p-2 rounded-full"
+                  class="p-2"
                 />
               </nuxt-link>
             </li>
