@@ -47,7 +47,7 @@
       <div class="w-full grid grid-cols-3 grid-rows-2 gap-2">
         <div class="relative col-span-3 row-span-2 md:col-span-2">
           <img
-            src="/house.jpg"
+            src="/house.webp"
             alt="badranaya-office"
             class="
               absolute
@@ -62,7 +62,7 @@
         </div>
         <div class="relative hidden md:block">
           <img
-            src="/Dining-room.jpg"
+            src="/Dining-room.webp"
             alt="interior-badranaya"
             class="
               absolute
@@ -77,7 +77,7 @@
         </div>
         <div class="relative hidden md:block">
           <img
-            src="/notebook.jpg"
+            src="/notebook.webp"
             alt="pengadaan-barang"
             class="
               absolute

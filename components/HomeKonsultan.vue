@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto mt-9">
     <div class="flex flex-wrap justify-between grid lg:grid-cols-2">
-      <div class="p-2 rounded-lg lg:mx-4 lg:my-4 mx-2 my-2 space-y-3">
+      <div class="p-2 rounded-lg mx-2 my-2 lg:mt-16">
         <div>
           <h2 class="text-3xl leading-tight font-bold">
             Konsultan
@@ -23,127 +23,66 @@
           dilaksanakan..
         </p>
       </div>
-      <div class="p-5 rounded-lg lg:mx-4 lg:my-4 px-2 py-2 space-y-6">
+      <div class="lg:p-5 rounded-lg lg:mx-4 lg:my-4 lg:px-2 py-2 space-y-6">
         <div class="bg-gray-800 p-2 rounded-lg">
           <div id="slider">
             <div class="slides">
               <div class="slider rounded-lg">
-                <!-- <div class="legend"></div> -->
-                <div class="content">
-                  <!-- <div class="content-txt">
-                    <h2>Lorem ipsum dolor</h2>
-                    <p>
-                      Nam ultrices pellentesque facilisis. In semper tellus
-                      mollis nisl pulvinar vitae vulputate lorem consequat.
-                      Fusce odio tortor, pretium sit amet auctor ut, ultrices
-                      vel nibh.
-                    </p>
-                  </div> -->
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-kota.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
                 </div>
+              </div>
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-kota.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-terdepan.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+              -->
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-terbaik.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/house.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+              <div class="slider rounded-lg">
                 <div class="image">
                   <nuxt-img
                     src="/badranaya-konsultan.webp"
                     loading="lazy"
                     alt="badranaya-produk"
-                    class="h-auto"
-                    width="640"
-                    height="396"
-                  />
-                </div>
-              </div>
-              <!-- <div class="slider rounded-lg"> 
-               
-                <div class="content bg-orange">
-                  <div class="content-txt">
-                    <h2>Lorem ipsum dolor</h2>
-                    <p>
-                      Nam ultrices pellentesque facilisis. In semper tellus
-                      mollis nisl pulvinar vitae vulputate lorem consequat.
-                      Fusce odio tortor, pretium sit amet auctor ut, ultrices
-                      vel nibh.
-                    </p>
-                  </div>
-                </div>
-                <div class="image">
-                  <nuxt-img
-                    src="/badranaya-jasa-konsultan.webp"
-                    loading="lazy"
-                    alt="badranaya-produk"
-                    class="h-auto"
-                    width="640"
-                    height="396"
-                  />
-                </div>
-              </div> -->
-              <div class="slider rounded-lg">
-                <!-- <div class="legend"></div> -->
-                <div class="content">
-                  <!-- <div class="content-txt">
-                    <h2>Lorem ipsum dolor</h2>
-                    <p>
-                      Nam ultrices pellentesque facilisis. In semper tellus
-                      mollis nisl pulvinar vitae vulputate lorem consequat.
-                      Fusce odio tortor, pretium sit amet auctor ut, ultrices
-                      vel nibh.
-                    </p>
-                  </div> -->
-                </div>
-                <div class="image">
-                  <nuxt-img
-                    src="/badranaya-jasa-konsultan.jfif"
-                    loading="lazy"
-                    alt="badranaya-produk"
-                    class="h-auto"
-                    width="640"
-                    height="396"
-                  />
-                </div>
-              </div>
-              <div class="slider rounded-lg">
-                <!-- <div class="legend"></div> -->
-                <div class="content">
-                  <!-- <div class="content-txt">
-                    <h2>Lorem ipsum dolor</h2>
-                    <p>
-                      Nam ultrices pellentesque facilisis. In semper tellus
-                      mollis nisl pulvinar vitae vulputate lorem consequat.
-                      Fusce odio tortor, pretium sit amet auctor ut, ultrices
-                      vel nibh.
-                    </p>
-                  </div> -->
-                </div>
-                <div class="image">
-                  <nuxt-img
-                    src="/house.jpg"
-                    loading="lazy"
-                    alt="badranaya-produk"
-                    class="h-auto"
-                    width="640"
-                    height="396"
-                  />
-                </div>
-              </div>
-              <div class="slider rounded-lg">
-                <!-- <div class="legend"></div> -->
-                <div class="content">
-                  <!-- <div class="content-txt">
-                    <h2>Lorem ipsum dolor</h2>
-                    <p>
-                      Nam ultrices pellentesque facilisis. In semper tellus
-                      mollis nisl pulvinar vitae vulputate lorem consequat.
-                      Fusce odio tortor, pretium sit amet auctor ut, ultrices
-                      vel nibh.
-                    </p>
-                  </div> -->
-                </div>
-                <div class="image">
-                  <nuxt-img
-                    src="/badranaya-konsultan.webp"
-                    loading="lazy"
-                    alt="badranaya-produk"
-                    class="h-auto"
-                    width="640"
-                    height="396"
+                    class="cover"
                   />
                 </div>
               </div>
@@ -162,6 +101,106 @@
         </div>
       </div>
     </div>
+    <div class="flex flex-wrap justify-between grid lg:grid-cols-2">
+      <div class="lg:p-5 rounded-lg lg:mx-4 lg:my-4 lg:px-2 py-2">
+        <div class="bg-gray-800 p-2 rounded-lg">
+          <div id="slider">
+            <div class="slides">
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-terpercaya.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-beriman.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-jasa.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-kontak.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+              <div class="slider rounded-lg">
+                <div class="image">
+                  <nuxt-img
+                    src="/arsitek-kebumen-kontraktor.webp"
+                    loading="lazy"
+                    alt="badranaya-produk"
+                    class="cover"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="switch">
+              <ul>
+                <li>
+                  <div class="on"></div>
+                </li>
+                <li></li>
+                <li></li>
+                <li></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="p-2 rounded-lg mx-2 my-2 lg:mt-16">
+        <div>
+          <h2 class="text-3xl leading-tight font-bold">
+            Konsultan
+            <span class="text-red pr-1 pl-1">Perencanaan</span>
+          </h2>
+          <!-- <p class="mt-3">
+            Bikin website gak perlu ribet karena kami yang akan urus semua dari
+            awal sampai akhir untuk anda.
+          </p> -->
+        </div>
+        <p class="space-y-2 font-medium text-lg">
+          Badranaya merupakan perusahaan jasa konsultan yang dapat dijadikan
+          mitra kerjasama dengan menawarkan jasa perencanaan dan pelaksanaan
+          pembangunan infrastruktur di wilayah Indonesia. Badranaya mempunyai
+          spesifikasi bidang jasa Arsitektur, Sipil, Lingkungan, Perencanaan
+          Wilayah dan Kota serta bidang Perdagangan dan Pengolahan Industri.
+          Badranaya didukung oleh tenaga-tenaga profesional serta mengutamakan
+          pada kepuasan mitra kerja dalam mendukung lancarnya kegiatan yang
+          dilaksanakan..
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 <script>
@@ -171,7 +210,7 @@ export default {};
 /* Slider */
 #slider {
   width: 100%;
-  height: 500px;
+  height: 550px;
   position: relative;
   overflow: hidden;
 }
@@ -217,49 +256,8 @@ export default {};
 }
 
 /* Legend */
-.legend {
-  border: 500px solid transparent;
-  border-left: 800px solid rgba(52, 73, 94, 0.7);
-  border-bottom: 0;
-  position: absolute;
-  bottom: 0;
-}
 
 /* Contents */
-.content {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  overflow: hidden;
-}
-.content-txt {
-  width: 400px;
-  height: 150px;
-  float: left;
-  position: relative;
-  top: 300px;
-  -webkit-animation: content-s 7.5s infinite;
-  -moz-animation: content-s 7.5s infinite;
-  animation: content-s 7.5s infinite;
-}
-.content-txt h2 {
-  font-family: Arial;
-  text-transform: uppercase;
-  font-size: 24px;
-  color: #fff;
-  text-align: left;
-  margin-left: 30px;
-  padding-bottom: 10px;
-}
-.content-txt p {
-  font-family: arial;
-  font-weight: normal;
-  font-size: 14px;
-  font-style: italic;
-  color: #fff;
-  text-align: left;
-  margin-left: 30px;
-}
 
 /* Switch */
 .switch {
