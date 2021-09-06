@@ -48,7 +48,7 @@
         >
           <TumbUp class="text-gray-900" />
           <div>
-            <h3 class="text-lg font-semibold text-red mb-3">Siplah Telkom</h3>
+            <h3 class="text-lg font-semibold text-red mb-3">SIPlah Telkom</h3>
             <p>check produk dan lakukan pembelian di</p>
             <a
               href="https://siplahtelkom.com/store/97707-badranaya?parent_dtids=all"
@@ -68,7 +68,7 @@
                   mb-5
                 "
               >
-                go to Siplah Telkom
+                go to SIPlah Telkom
               </span>
             </a>
           </div>
@@ -89,10 +89,10 @@
         >
           <TumbUp class="text-gray-900" />
           <div>
-            <h3 class="text-lg font-semibold text-red mb-3">Our Store</h3>
+            <h3 class="text-lg font-semibold text-red mb-3">SIPlah Blibli</h3>
             <p>check produk dan lakukan pembelian di</p>
             <a
-              href="#"
+              href="https://siplah.blibli.com/search?itemPerPage=40&page=0&merchantId=SCBA-0110"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -109,7 +109,7 @@
                   mb-5
                 "
               >
-                go to our Store
+                SIPlah Blibli
               </span>
             </a>
           </div>
