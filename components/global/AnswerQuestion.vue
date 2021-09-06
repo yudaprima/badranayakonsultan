@@ -183,7 +183,7 @@
             </p>
             <p class="text-sm pt-2 text-lg">Phone : 0812-2391-6966</p>
             <a
-              href="https://api.whatsapp.com/send?phone=+*6281223916966*&text=%20*Saya cukup tertarik dengan web Roofel..."
+              href="https://api.whatsapp.com/send?phone=+*6281223916966*&text=%20*Saya ingin menanyakan terkait produk Badranaya..."
               target="_blank"
               rel="noopener noreferrer"
             >
