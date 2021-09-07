@@ -74,7 +74,7 @@
                   mb-5
                 "
               >
-                go to SIPlah Telkom
+                SIPlah Telkom
               </span>
             </a>
           </div>
