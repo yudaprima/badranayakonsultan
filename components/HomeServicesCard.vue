@@ -54,6 +54,10 @@
             alt="jasa pengadaan barang dan jasa menggunakan SIPlah telkom"
           />
           <div>
+<<<<<<< HEAD
+=======
+            <h3 class="text-lg font-semibold text-red mb-3">SIPlah Telkom</h3>
+>>>>>>> b8e1fceaac54960c338cc55477e7c615f8429c65
             <p>check produk dan lakukan pembelian di</p>
             <a
               href="https://siplahtelkom.com/store/97707-badranaya?parent_dtids=all"
@@ -73,7 +77,11 @@
                   mb-5
                 "
               >
+<<<<<<< HEAD
                 SIPlah Telkom
+=======
+                go to SIPlah Telkom
+>>>>>>> b8e1fceaac54960c338cc55477e7c615f8429c65
               </span>
             </a>
           </div>
@@ -100,6 +108,10 @@
             alt="jasa pengadaan barang dan jasa menggunakan SIPlah blibli"
           />
           <div>
+<<<<<<< HEAD
+=======
+            <h3 class="text-lg font-semibold text-red mb-3">SIPlah Blibli</h3>
+>>>>>>> b8e1fceaac54960c338cc55477e7c615f8429c65
             <p>check produk dan lakukan pembelian di</p>
             <a
               href="https://siplah.blibli.com/search?itemPerPage=40&page=0&merchantId=SCBA-0110"
