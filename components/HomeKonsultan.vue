@@ -181,8 +181,8 @@
       <div class="p-2 rounded-lg mx-2 my-2 lg:mt-16">
         <div>
           <h2 class="text-3xl leading-tight font-bold">
-            Konsultan
-            <span class="text-red pr-1 pl-1">Perencanaan</span>
+            Arsitek terpercaya untuk
+            <span class="text-red pr-1 pl-1">Rumah</span>Anda
           </h2>
           <!-- <p class="mt-3">
             Bikin website gak perlu ribet karena kami yang akan urus semua dari
@@ -190,14 +190,13 @@
           </p> -->
         </div>
         <p class="space-y-2 font-medium text-lg">
-          Badranaya merupakan perusahaan jasa konsultan yang dapat dijadikan
-          mitra kerjasama dengan menawarkan jasa perencanaan dan pelaksanaan
-          pembangunan infrastruktur di wilayah Indonesia. Badranaya mempunyai
-          spesifikasi bidang jasa Arsitektur, Sipil, Lingkungan, Perencanaan
-          Wilayah dan Kota serta bidang Perdagangan dan Pengolahan Industri.
-          Badranaya didukung oleh tenaga-tenaga profesional serta mengutamakan
-          pada kepuasan mitra kerja dalam mendukung lancarnya kegiatan yang
-          dilaksanakan..
+          Apakah Anda ingin mendesain struktur untuk bangunan Anda agar lebih
+          ekonomis dan aman ? Hitung Struktur Rumah adalah penentu utama dari
+          sebuah bangunan rumah dari terjadinya keruntuhan dan kegagalan
+          bangunan. Serta seberapa besar daya tahan bangunan tersebut terhadap
+          beban-beban yang bekerja. Sehingga diperlukan adanya perencanaan dan
+          perhitungan struktur yang baik, tepat, efisien, serta ekonomis.
+          Sekarang anda tidak perlu repot lagi Karena kami siap membantu anda
         </p>
       </div>
     </div>

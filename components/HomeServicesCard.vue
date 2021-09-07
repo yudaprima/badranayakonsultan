@@ -46,12 +46,17 @@
             space-y-6
           "
         >
-          <TumbUp class="text-gray-900" />
+          <nuxt-img
+            class="object-cover rounded-lg w-full"
+            fit="cover"
+            src="/pengadaan-barang-badranaya-telkom.webp"
+            loading="lazy"
+            alt="jasa pengadaan barang dan jasa menggunakan SIPlah telkom"
+          />
           <div>
-            <h3 class="text-lg font-semibold text-red mb-3">blibli</h3>
             <p>check produk dan lakukan pembelian di</p>
             <a
-              href="https://goo.gl/maps/3KURx5vcDANY1XJy8"
+              href="https://siplahtelkom.com/store/97707-badranaya?parent_dtids=all"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -68,7 +73,7 @@
                   mb-5
                 "
               >
-                go to BLIBLI
+                SIPlah Telkom
               </span>
             </a>
           </div>
@@ -87,12 +92,17 @@
             space-y-6
           "
         >
-          <TumbUp class="text-gray-900" />
+          <nuxt-img
+            class="object-cover rounded-lg"
+            fit="cover"
+            src="/pengadaan-barang-badranaya-blibli.webp"
+            loading="lazy"
+            alt="jasa pengadaan barang dan jasa menggunakan SIPlah blibli"
+          />
           <div>
-            <h3 class="text-lg font-semibold text-red mb-3">blibli</h3>
             <p>check produk dan lakukan pembelian di</p>
             <a
-              href="https://goo.gl/maps/3KURx5vcDANY1XJy8"
+              href="https://siplah.blibli.com/search?itemPerPage=40&page=0&merchantId=SCBA-0110"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -109,7 +119,7 @@
                   mb-5
                 "
               >
-                go to fghfg
+                SIPlah Blibli
               </span>
             </a>
           </div>

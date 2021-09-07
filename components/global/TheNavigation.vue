@@ -161,7 +161,7 @@
                 AboutUs
               </nuxt-link>
             </li>
-            <li>
+            <!-- <li>
               <nuxt-link
                 :to="{ name: 'post' }"
                 class="
@@ -181,7 +181,7 @@
               >
                 Blog
               </nuxt-link>
-            </li>
+            </li> -->
           </ul>
         </div>
       </div>

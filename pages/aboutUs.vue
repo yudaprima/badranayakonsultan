@@ -3,10 +3,10 @@
     <div class="overflow-hidden px-4 flex flex-wrap mb-3 bg-gray-900">
       <div class="lg:w-3/5 mx-auto py-12 space-y-5 px-2 lg:px-16">
         <h1
-          class="font-extrabold text-white text-5xl lg:text-6xl leading-tight"
+          class="font-extrabold text-white text-4xl lg:text-6xl leading-tight"
         >
-          Badranaya Perusahaan Pengadaan barang & Konsultan yang Mengerti
-          Kebutuhan Anda
+          Badranaya Perusahaan Pengadaan barang & Konsultan Arsitektur yang
+          Mengerti Kebutuhan Anda
         </h1>
       </div>
       <div class="lg:w-2/5 py-10 hidden md:block">
@@ -35,22 +35,29 @@
         >
           <p class="font-extrabold text-2xl leading-tight">Siapa Kami.</p>
           <p class="leading-9">
-            Dibangun oleh beberapa orang yang berkeinginan menjadikan Roofel
-            sebagai wadah untuk memfasilitasi SDM berkualitas di bidang web dan
-            web app agar selalu tetap berkarya dan bisa menampilkan karya dan
-            ide untuk bisa di gunakan oleh calon klien.
+            Badranaya adalah perusahaan yang bergerak dibidang pengadaan barang
+            bebas khususnya pengadaan barang untuk sekolahan, instansi baik
+            pemerintah maupun swasta, jasa konsultan, Arsitek, Event organiser.
           </p>
           <p class="font-extrabold text-2xl leading-tight">Visi Kami.</p>
           <p class="leading-9">
-            Visi kami adalah bukan hanya sekedar membuat website dan aplikasi
-            tetapi kami ingin menjadi teman yang baik dalam perjalanan
-            perusahaan anda kedepan nya khususnya di dunia digital
+            Badranaya memiliki visi Menjadi perusahaan pilihan utama di bidang
+            jasa arsitek dan interior, Serta pengadaan barang dan jasa, Selain
+            itu Badranaya selalu berusaha keras menjadi perusahaan konsultan
+            jasa arsitek & interior terkemuka yang mempunyai reputasi &
+            keunggulan komperatif, melalui potensi SDM berdasarkan kesalehan
+            spiritual, intelektual, & sosial.
           </p>
           <p class="font-extrabold text-2xl leading-tight">Misi Kami.</p>
           <p class="leading-9">
-            Menjadi mitra yang bisa memberikan masukan, ide dan gambaran yang
-            sebenar benarnya tentang web aplikasi sehingga bisa sesuai dan
-            bersinergi dengan perusahaan yang anda bangun
+            Mengembangkan karya arsitektur Indonesia yang berkualitas.<br />
+            Memberikan solusi terbaik dengan memegang kepercayaan/komitmen,
+            dalam memenuhi kebutuhan & keinginan klien.<br />
+            Memberikan layanan yang profesional & berkesinambungan, sehingga
+            tercipta 'special feeling'.<br />
+            Memberdayakan pengetahuan, pengalaman, kreativitas, dan rasa nyaman
+            dari anggota perusahaan, bagi tujuan bisnis, pengabdian profesi &
+            sosial.
           </p>
           <!-- <p class="font-extrabold text-2xl leading-tight">
             Our Project
