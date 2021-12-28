@@ -119,12 +119,12 @@
       >
         <div class="w-full md:w-4/12 px-4 mx-auto text-center">
           <div class="text-sm text-gray-300 py-1">
-            Copyright © {{ new Date().getFullYear() }} by
+            Copyright © {{ new Date().getFullYear() }} |
             <a
-              href="https://www.roofel.com"
+              href="https://www.roofel.com/jasa-pembuatan-website/"
               class="text-gray-200 hover:text-gray-300"
             >
-              Roofel
+              Web SEO
             </a>
           </div>
         </div>
