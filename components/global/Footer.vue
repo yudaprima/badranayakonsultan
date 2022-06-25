@@ -121,7 +121,7 @@
           <div class="text-sm text-gray-300 py-1">
             Copyright © {{ new Date().getFullYear() }} |
             <a
-              href="https://www.roofel.com/jasa-pembuatan-website/"
+              href="https://www.roofel.com/"
               class="text-gray-200 hover:text-gray-300"
             >
               Web SEO
